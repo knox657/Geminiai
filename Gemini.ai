@@ -47,7 +47,7 @@ def handle_message(update: Update, context: CallbackContext) -> None:
 def main() -> None:
     """Start the bot."""
     # Insert your Telegram Bot Token
-    TELEGRAM_TOKEN = 'your_telegram_bot_token'
+    TELEGRAM_TOKEN = '7061150538:AAFS9JnMrvKzWRAszgFYkruCUVzUcg3By3U'
     
     updater = Updater(TELEGRAM_TOKEN)
     
